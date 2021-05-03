@@ -1317,6 +1317,13 @@
   dependencies:
     tslib "^2.1.0"
 
+"@formatjs/ecma402-abstract@1.7.0":
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/@formatjs/ecma402-abstract/-/ecma402-abstract-1.7.0.tgz#440b341ba18451d53d9172e3110d96ca420b3760"
+  integrity sha512-0IQF4oDZdO8ruyrNJZuRle3F/YiGgRwTNrZyMI1N1X8GERZusOrXU9Stw+j/lyyfDWaJK44b+Qnri/qfLPCtGQ==
+  dependencies:
+    tslib "^2.1.0"
+
 "@formatjs/intl-displaynames@^1.2.0":
   version "1.2.10"
   resolved "https://registry.yarnpkg.com/@formatjs/intl-displaynames/-/intl-displaynames-1.2.10.tgz#bb9625cca90b099978cd967c6a98aaf4e23fc878"
@@ -1349,12 +1356,12 @@
     cldr-core "38"
     tslib "^2.1.0"
 
-"@formatjs/intl-numberformat@^6.1.4":
-  version "6.2.5"
-  resolved "https://registry.yarnpkg.com/@formatjs/intl-numberformat/-/intl-numberformat-6.2.5.tgz#994c10d3d7278c56e426a3cc1a3e128361e29f60"
-  integrity sha512-OnumcFnxnrRhfcL/KMBmC54i948YUQ3eh+J4DiHjs1QRx8iattj/07UEipqMvu6iHjnqU0PRTxFBGG2L+9JWXw==
+"@formatjs/intl-numberformat@^6.2.6":
+  version "6.2.9"
+  resolved "https://registry.yarnpkg.com/@formatjs/intl-numberformat/-/intl-numberformat-6.2.9.tgz#eb1df253a2c209a9d02f451f318619609a2e670d"
+  integrity sha512-FTUTman4UBa8KP+QyoqnAuDeeIsN+G7YNH0djf/LUj+NiYAMmjgk3lCU9QK9A6roEHNdOgTdBPYiFUXwFDCy2w==
   dependencies:
-    "@formatjs/ecma402-abstract" "1.6.4"
+    "@formatjs/ecma402-abstract" "1.7.0"
     tslib "^2.1.0"
 
 "@formatjs/intl-pluralrules@^1.5.2":
