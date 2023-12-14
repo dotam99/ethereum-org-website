@@ -19,7 +19,7 @@
     "dotenv": "^8.2.0",
     "ethereum-blockies-base64": "^1.0.2",
     "framer-motion": "^1.11.1",
-    "gatsby": "^3.5.0",
+    "gatsby": "^4.0.0",
     "gatsby-image": "^3.0.0",
     "gatsby-plugin-intl": "^0.3.3",
     "gatsby-plugin-lodash": "^4.0.0",
